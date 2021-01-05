@@ -1,0 +1,10 @@
+name: ProSpawn
+main: fatosh\spawn\main
+author: Fatosh
+api: 3.0.0
+version: 1.0.0
+
+commands:
+
+  spawn:
+    description: "Teleports you to main spawn!"
